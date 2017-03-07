@@ -1,0 +1,23 @@
+.wynik {
+    margin-top: 20px;
+    padding: 10px;
+    width: 100%;
+    min-height: 100px;
+    background: #fff;
+    border: dotted 1px silver;
+}
+
+.wynik li {
+    list-style: none;
+}
+
+.place {
+    display: inline-block;
+    width: 210px;
+}
+
+.place_h {
+    display: inline-block;
+    width: 210px;
+    font-weight: bold;
+}
